@@ -1,0 +1,25 @@
+PRIVACYSHIELD AI - SAMPLE TEST DOCUMENT FOR PII DETECTION
+
+Date: September 22, 2026
+Document ID: DOC-2026-8841
+Location: New Delhi, India
+
+RECIPIENT DETAILS:
+Name: Aarav Sharma
+Email: aarav.sharma@example.com
+Alternative Email: aarav.sharma@example.com
+Primary Phone: +91 98765 43210
+Secondary Phone: 09876543210
+City: New Delhi
+
+SENDER DETAILS:
+Name: Priya Patel
+Email: priya.patel@techcorp.in
+Phone: +91 91234 56789
+City: Bengaluru
+
+SUMMARY OF PROCEEDINGS:
+On Monday, Mr. Aarav Sharma visited the TechCorp headquarters in Bengaluru to meet with Ms. Priya Patel regarding project PrivacyShield AI. They discussed the integration of local LLMs for privacy-preserving document processing. Ms. Priya Patel subsequently emailed the project specifications to aarav.sharma@example.com and confirmed the follow-up meeting via call to +91 98765 43210.
+
+CONFIDENTIALITY NOTICE:
+This document contains fictional PII data generated solely for system validation and unit testing of PrivacyShield AI.
